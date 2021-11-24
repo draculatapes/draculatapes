@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @draculatapes
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-draculatapes/draculatapes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi,I’m amarjeeet kumar
+- 👀 I’m interested in artificial intelligence,web devlopment,quantum computing
+- 🌱 I’m currently learning c++,data-strucute and DBMS.
+- 💞️ I’m looking to collaborate on some beginner level projects based on c and c++
+- insta-@amarkch,twitter-@amarjeetchand,linkdin-amarjeet kumar
