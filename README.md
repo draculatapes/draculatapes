@@ -1,5 +1,5 @@
-- 👋 Hi,I’m amarjeeet kumar
-- 👀 I’m interested in artificial intelligence,web devlopment,quantum computing
-- 🌱 I’m currently learning c++,data-strucute and DBMS.
+- # Hi,I’m amarjeeet kumar
+- 👀 I’m interested in artificial intelligence,problem solving
+- 🌱 I'm currently learning python and doing problems on leetcode.
 - 💞️ I’m looking to collaborate on some beginner level projects based on c and c++
-- insta-@amarkch,twitter-@amarjeetchand,linkdin-amarjeet kumar
+- insta-@_amar_jeet75,twitter-@_amar_jeet75 ,linkdin-[amarjeet kumar](https://www.linkedin.com/in/amarjeet-kumar-3419b8148?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
