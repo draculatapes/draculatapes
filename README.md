@@ -1,5 +1,59 @@
-- # Hi,I’m amarjeeet kumar
-- 👀 I’m interested in artificial intelligence,problem solving
-- 🌱 I'm currently learning python and doing problems on leetcode.
-- 💞️ I’m looking to collaborate on some beginner level projects based on c and c++
-- insta-@_amar_jeet75,twitter-@_amar_jeet75 ,linkdin-[amarjeet kumar](https://www.linkedin.com/in/amarjeet-kumar-3419b8148?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+# Hi, I'm Amarjeet Kumar 👋
+
+🎓 B.Tech in Computer Science Engineering  
+🐍 Python Developer | DSA Problem Solver | AI & ML Learner  
+
+---
+
+### 👀 Interests
+- Artificial Intelligence & Machine Learning  
+- Data Structures & Algorithms  
+- Problem Solving & Competitive Programming  
+- Backend Development with Python  
+
+---
+
+### 🌱 Currently Learning
+- Artificial Intelligence & Machine Learning (learning from **Krish Naik**)  
+- Advanced Python for scalable applications  
+- Core CS fundamentals for system-level understanding  
+
+---
+
+### 🧠 Problem Solving Profile
+- ✅ **900+ problems solved on LeetCode**  
+- ✅ **400+ problems solved on GeeksforGeeks**  
+- ⭐ **1700+ rating on LeetCode**  
+- ⭐ **1700+ rating on GeeksforGeeks**  
+- 🔥 365-day submission streak on LeetCode  
+
+---
+
+### 🏆 Achievements
+- 🥇 Winner of **Coder’s Collide** & **Coder’s Collide 2.0** (College-level competitions)  
+- 🎖 Meritorious Student Encouragement Award (1st rank in diploma academics)
+
+---
+
+### 💞️ Open to Collaboration
+- Python-based projects (DSA, backend, AI/ML basics)  
+- Beginner to intermediate **C / C++** projects  
+- Open-source contributions related to problem solving  
+
+---
+
+### 🛠 Tech Stack
+- **Primary Language:** Python  
+- Other Languages: C, C++  
+- Problem Solving Platforms: LeetCode, GeeksforGeeks  
+
+---
+
+### 🔗 Connect With Me
+- 💼 LinkedIn: [Amarjeet Kumar](https://www.linkedin.com/in/amarjeet-kumar-3419b8148)  
+- 📷 Instagram: @_amar_jeet75  
+- 🐦 Twitter (X): @_amar_jeet75  
+
+---
+
+⭐ *Strong in fundamentals. Focused on growth. Always learning.*
